@@ -1,0 +1,29 @@
+Privacy Policy for AutoTok Last Updated: January 11, 2026
+
+1. Introduction AutoTok ("we," "us," or "our") operates the AutoTok application (the "Service"). This Privacy Policy explains how we collect, use, and share information when you use our Service to interact with the TikTok Platform.
+
+2. Information We Collect We collect the following types of information:
+
+    TikTok Account Information: When you authenticate with TikTok, we receive your basic public profile information (username, display name, avatar) and an access token.
+
+    Content: We process the video files and metadata (captions, settings) that you explicitly provide to us for the purpose of uploading to TikTok.
+
+    Usage Logs: We may collect logs of successful and failed upload attempts for debugging purposes.
+
+3. How We Use Your Information We use your information solely to:
+
+    Authenticate your identity via the TikTok API.
+
+    Upload, publish, and manage video content on your TikTok account upon your request.
+
+    Refresh authentication tokens to maintain service continuity.
+
+4. Data Sharing and Disclosure We do not sell your personal data. We only share data in the following circumstances:
+
+    With TikTok: To fulfill the core function of the app (uploading videos), video data is transmitted directly to TikTok's servers via their API.
+
+    Legal Requirements: If required by law to comply with a subpoena or similar legal process.
+
+5. Data Retention We retain your Access Tokens and Refresh Tokens only for as long as you continue to use the Service. You may revoke our access at any time via your TikTok Security Settings.
+
+6. Contact Us If you have questions about this Privacy Policy, please contact us at: Email: autotok@gmail.com

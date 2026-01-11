@@ -1,0 +1,21 @@
+Terms of Service for AutoTok Last Updated: January 11, 2026
+
+1. Acceptance of Terms By accessing or using AutoTok, you agree to be bound by these Terms of Service. If you do not agree, do not use the Service.
+
+2. Description of Service AutoTok is an automation tool that allows users to schedule and upload video content to TikTok using the TikTok Open API.
+
+3. User Responsibilities You agree that:
+
+    You own the rights to the video content you upload.
+
+    You will not use this Service to upload illegal, hateful, or prohibited content as defined by TikTok's Community Guidelines.
+
+    You are responsible for maintaining the security of your TikTok account credentials.
+
+4. API Limits and Availability We rely on the TikTok API. We are not responsible for service outages, API rate limits, or changes to the TikTok API that may affect the functionality of this Service.
+
+5. Termination We reserve the right to terminate or suspend your access to the Service immediately, without prior notice, for any reason, including breach of these Terms.
+
+6. Limitation of Liability In no event shall AutoTok be liable for any indirect, incidental, special, or consequential damages arising out of your use of the Service.
+
+7. Governing Law These Terms shall be governed by the laws of New South Wales, Australia.
